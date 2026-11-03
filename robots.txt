@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /HalcyonVillas/photo-board/
+Disallow: /HalcyonVillas/stay/
+
+Sitemap: https://ravishanbbn.github.io/HalcyonVillas/sitemap.xml
