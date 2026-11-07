@@ -1,8 +1,11 @@
 {
   "name": "Halcyon Rest, Hikkaduwa",
   "short_name": "Halcyon Rest",
-  "icons": [{ "src": "assets/brand/icon-512.png", "sizes": "512x512", "type": "image/png" }],
-  "theme_color": "#10292C",
+  "icons": [
+    { "src": "assets/brand/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/brand/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "theme_color": "#112656",
   "background_color": "#F5EFE4",
   "start_url": "./",
   "display": "standalone"
